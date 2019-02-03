@@ -24,3 +24,9 @@ hs_err_pid*
 
 # Hidden files
 *DS_Store*
+
+.setting
+.classpath
+.project
+.vscode
+
