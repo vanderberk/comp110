@@ -3,7 +3,7 @@
 This page is created for the OOP course.
 
 ### Hello World Java Program
-Simple Java program to display a message. We use `system.out.println` method to display a string.
+Simple Java program to display a message. We use `system.out.println("hello")` method to display a string.
 
 Alternative print methods:
 - `system.out.print`
