@@ -28,6 +28,8 @@ List of topics :star:
 - [ ] Printing to a file
 - [ ] Reading from a file
 
+Tables in Markdown
+---
 
 Table of print methods.
 
@@ -39,7 +41,6 @@ printf | Formatted output
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ---
 > This page is prepared by BG
 
