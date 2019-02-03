@@ -22,7 +22,13 @@ public class Main {
 }
 ```
 
-> This is a quote.
+List of topics
+- [x] Basic printing
+- [x] Formatted printting
+- [ ] Printing to a file
+- [ ] Reading from a file
+
+> This page is prepared by BG
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
