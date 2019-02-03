@@ -11,7 +11,6 @@ public class App {
 		House house = new House(numberOfRooms);
 		//House house = new House(numberOfRooms);
 		
-		
 		int w;
 		int h;
 		String rt;
