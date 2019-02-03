@@ -3,7 +3,12 @@
 This page is created for the OOP course.
 
 ### Hello World Java Program
-Simple Java program to display a message. We use `system.out.println` command.
+Simple Java program to display a message. We use `system.out.println` method to display a string.
+
+Alternative print methods:
+- `system.out.print`
+- `system.out.printf`
+- `system.out.println`
 
 
 ```markdown
@@ -15,15 +20,7 @@ public class Main {
     }
 }
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
