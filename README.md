@@ -1,4 +1,4 @@
-## Object-Oriented Programming GitHun Pages
+## Object-Oriented Programming Course - GitHub Pages
 
 This page is created for the OOP course.
 
