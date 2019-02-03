@@ -7,15 +7,7 @@ import java.util.Arrays;
 public class UniqueElements {
 	public static void main(String[] args) {
 		int[] inputArray = {12,4,4,3,12,4,88,3};
-		//int[] inputArray = {7,7,7,7,7};
-		//int[] inputArray = {};
-		//int[] inputArray = {5,8,3,1,7,2,9};
 
-		//int[] inputArray = {7,7,7,7,7};
-		//int[] inputArray = {};
-		//int[] inputArray = {5,8,3,1,7,2,9};
-
-		
 		int[] outputArray = findUnique(inputArray);
 		System.out.println(Arrays.toString(inputArray));
 		System.out.println(Arrays.toString(outputArray));
