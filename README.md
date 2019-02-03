@@ -30,5 +30,12 @@ List of topics :sparkles:
 
 > This page is prepared by BG
 
+Method | Explanation
+------------ | -------------
+print | Print
+println | Print and move to the next line
+printf | Formatted output
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
