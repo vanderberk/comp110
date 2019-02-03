@@ -18,6 +18,31 @@ public class UniqueElements {
 		//int[] inputArray = {7,7,7,7,7};
 		//int[] inputArray = {};
 		//int[] inputArray = {5,8,3,1,7,2,9};
+		
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+		
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+		
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+
+		//int[] inputArray = {7,7,7,7,7};
+		//int[] inputArray = {};
+		//int[] inputArray = {5,8,3,1,7,2,9};
+		
 
 		
 		int[] outputArray = findUnique(inputArray);
