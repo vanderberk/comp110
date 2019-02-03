@@ -32,7 +32,6 @@ List of topics :sparkles:
 Table of print methods.
 
 Method | Explanation
------------- | -------------
 print | Print
 println | Print and move to the next line
 printf | Formatted output
