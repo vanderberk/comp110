@@ -2,6 +2,9 @@
 public class House {
 	public int numberOfRooms;
 	public Room[] rooms;
+	// comment
+	// comment
+	
 	
 	House(int numberOfRooms) {
 		this.numberOfRooms = numberOfRooms;
