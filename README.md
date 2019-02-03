@@ -14,7 +14,7 @@ You can download _Java JDK_ from [Java SE Downloads](https://www.oracle.com/tech
 
 This is the complete Java Hello World program:
 
-```markdown
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
