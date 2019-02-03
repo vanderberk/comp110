@@ -1,6 +1,6 @@
 ## Object-Oriented Programming Course - GitHub Pages
 
-This page is created for the OOP course.
+This page is created for the COMP 110 OOP course.
 
 ### Hello World Java Program
 Simple Java program to display a message. We use `system.out.println("hello")` method to display a string.
