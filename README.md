@@ -22,7 +22,7 @@ public class Main {
 }
 ```
 
-List of topics :sparkles:
+List of topics :star:
 - [x] Basic printing
 - [x] Formatted printting
 - [ ] Printing to a file
