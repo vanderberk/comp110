@@ -7,6 +7,8 @@ public class App {
 	public static void main(String[] args) {
 
 		String filename = "products.txt";
+		//String filename = "products.txt";
+		
 		File file = new File(filename);
 		Scanner input = null;
 		try {

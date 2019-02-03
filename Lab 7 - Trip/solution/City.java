@@ -5,7 +5,6 @@
  * @author Mustafa Can Buken
  * @date 17.12.2018
  * @version 1.00
- *
  */
 public class City {
 	String name;
