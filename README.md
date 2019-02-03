@@ -10,21 +10,16 @@ Alternative print methods:
 - `system.out.printf`
 - `system.out.println`
 
+You can download _Java JDK_ from [Java SE Downloads](https://www.oracle.com/technetwork/java/javase/downloads/index.html) page. Be sure to download **JDK 11**
+
+This is the complete Java Hello World program:
 
 ```markdown
-Syntax highlighted code block
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
