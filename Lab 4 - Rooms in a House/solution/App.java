@@ -9,6 +9,8 @@ public class App {
 		input.nextLine();
 		
 		House house = new House(numberOfRooms);
+		//House house = new House(numberOfRooms);
+		
 		
 		int w;
 		int h;
