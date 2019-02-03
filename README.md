@@ -28,7 +28,8 @@ List of topics :sparkles:
 - [ ] Printing to a file
 - [ ] Reading from a file
 
-> This page is prepared by BG
+
+Table of print methods.
 
 Method | Explanation
 ------------ | -------------
@@ -38,4 +39,7 @@ printf | Formatted output
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+> This page is prepared by BG
+
 
