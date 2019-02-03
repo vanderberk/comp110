@@ -1,9 +1,10 @@
 ## Object-Oriented Programming GitHun Pages
 
-This page is created for OOP course.
+This page is created for the OOP course.
 
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hello World Java Program
+Simple Java program to display a message. We use `system.out.println` command.
+
 
 ```markdown
 Syntax highlighted code block
