@@ -39,6 +39,7 @@ printf | Formatted output
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 ---
 > This page is prepared by BG
 
