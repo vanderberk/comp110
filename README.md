@@ -1,2 +1,2 @@
-## COMP110 Object-Oriented Programming Course - GitHub Page
+### COMP110 Object-Oriented Programming Course - GitHub Page
 
