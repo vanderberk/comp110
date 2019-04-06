@@ -1,0 +1,34 @@
+La La Land, 2016, 93, 8.0, Damien Chazelle, Ryan Gosling, Emma Stone
+Comedy, Drama
+
+Blade Runner 2049, 2017, 81, 8.0, Denis Villeneuve, Harrison Ford, Ryan Gosling, Ana de Armas
+Drama, Mystery
+
+Sicario, 2015, 82, 7.6, Denis Villeneuve, Emily Blunt, Benicio Del Toro
+Action, Crime, Drama
+
+The Usual Suspects, 1994, 77, 8.6, Bryan Singer, Kevin Spacey, Gabriel Byrne
+Crime, Mystery, Thriller
+
+Leon, 1994, 64, 8.6, Luc Besson, Jean Reno, Gary Oldman, Natalie Portman
+Action, Crime, Drama
+
+Fight Club, 1996, 66, 8.8, David Fincher, Brad Pitt, Edward Norton
+Drama
+
+The Game, 1997, 61, 7.8, David Fincher, Michael Douglas, Deborah Kara Unger, Sean Penn
+Drama, Mystery, Thriller
+
+Spirited Away, 2001, 96, 8.6, Hayao Miyazaki
+Animation, Adventure
+
+Howl's Moving Castle, 2002, 80, 8.2, Hayao Miyazaki
+Animation, Adventure, Family
+
+Control, 2003, 78, 7.7, Anton Corbijn, Sam Riley, Samantha Morton
+Biography, Drama Music
+
+Tinker Tailor Soldier Spy, 2004, 85, 7.1, Tomas Alfredson, Gary Oldman, Colin Firth, Tom Hardy
+Drama, Mystery
+
+
