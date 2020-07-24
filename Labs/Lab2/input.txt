@@ -1,0 +1,4 @@
+Bob 60 70
+John 50 80
+Mary 32 23
+Robert 42 88
